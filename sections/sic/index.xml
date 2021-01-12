@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Arquitectura CTTI. Generalitat de Catalunya </title>
+    <link>https://canigo.ctti.gencat.cat/sections/sic/</link>
+    <language>ca-es</language>
+    
+    
+    <updated>Wed, 17 Jun 2020 00:00:00 UTC</updated>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+         
+    <item>
+      <title>
+        
+        SIC. Recordatori de baixa del SVN
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</guid>
+      <description>Us recordem que a partir del 15/10/2020 el SVN del SIC es donarà de baixa definitivament</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització plugin Eclipse 1.7.10
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</guid>
+      <description>S&#39;ha publicat una nova versió del plugin de l&#39;Eclipse de Canigó per a generar projectes amb Canigó 3.4.5</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls integració
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls integració de Canigó</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Gitlab
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Custodia de Codi (Gitlab)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Jenkins
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei d&#39;Integració Continua (Jenkins)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Nexus
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Repositori d&#39;Artefactes (Nexus)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.6 i actualització plugin Eclipse 1.7.8
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</guid>
+      <description>S&#39;ha publicat una nova versió de l’arquetipus i del plugin de l&#39;eclipse de Canigó per a modificar projectes afegint el mòdul de Mongodb 2.3.0</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.7 i plugin Eclipse 1.7.9
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</guid>
+      <description>S&#39;ha publicat una nova versió de l’archetype i del plugin de l’Eclipse de Canigó per a generar projectes amb Canigó 3.4.4</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització mòdul Seguretat
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</guid>
+      <description>S&#39;ha publicat una nova versió del mòdul Seguretat de Canigó per oferir la funcionalitat de compressió de token JWT</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls core
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls core de Canigó</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <item>
+      <title>SIC. Actualització de versió Gitlab</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-07-19-sic-act_versio_scm/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-07-19-sic-act_versio_scm/</guid>
+      <description>Durant els mesos de Maig i Juliol s&#39;han dut a terme actualitzacions del Servei de Custodia de Codi (Gitlab)</description>
+    </item>
+    
+    <item>
+      <title>SIC. Actualització de versió Jenkins</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-07-19-sic-act_versio_ci/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-07-19-sic-act_versio_ci/</guid>
+      <description>Durant els mesos de Maig i Juliol s&#39;han dut a terme actualitzacions del Servei d&#39;Integració Continua (Jenkins)</description>
+    </item>
+    
+    <item>
+      <title>SIC. Canvi de lots segons la nova contractació 2019</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-05-06-sic-canvi-lots/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-05-06-sic-canvi-lots/</guid>
+      <description>El dia 01/06/2019 es farà efectiva la nova configuració de lots de les aplicacions en base a la nova contractació de proveïdors del Centre de Telecomunicacions i Tecnologies de la Informació de la Generalitat de Catalunya</description>
+    </item>
+    
+    <item>
+      <title>Millores i actualització documentació del Servei de Binaris</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-02-22-actualitzacio-doc-binaris/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-02-22-actualitzacio-doc-binaris/</guid>
+      <description>Arran de diferents consultes realitzades per proveïdors d&#39;aplicacions, s&#39;han realitzat millores en el Servei de Binaris i actualitzat la documentació de referència</description>
+    </item>
+    
+    <item>
+      <title>Cloud. Registre Docker privat corporatiu</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2018-07-06-registre-docker/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2018-07-06-registre-docker/</guid>
+      <description>Des de Suport Cloud s&#39;ha habilitat un registre Docker privat corporatiu integrat amb el SIC (Servei d&#39;Integració Continua)</description>
+    </item>
+    
+    <item>
+      <title>SIC. Actualització anual dels productes del SIC</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2018-06-26-UpgradeSIC/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2018-06-26-UpgradeSIC/</guid>
+      <description>S&#39;està treballant en l&#39;actualització tecnològica planificada de forma anual de la plataforma. En concret, durant el mes de setembre s&#39;actualitzarà la plataforma de d&#39;integració contínua Jenkins a la versió 2.121.1 i la versió de GitLab a la versió 10.8.4.</description>
+    </item>
+    
+    <item>
+      <title>SIC. Recordatori de pas de SVN a mode només lectura</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2017-12-12-Recordatori-svn/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2017-12-12-Recordatori-svn/</guid>
+      <description>Us recordem que a partir del 5 de febrer de 2018 el SVN del SIC passarà a mode només lectura. D&#39;aquesta manera, a partir d&#39;aquest dia no es podrà pujar noves versions de codi a aquesta plataforma.</description>
+    </item>
+    
+    <item>
+      <title>Repositori Maven2 de Red Hat al Nexus de SIC</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/sic-repo-maven2-redhat/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/sic-repo-maven2-redhat/</guid>
+      <description>Des d&#39;ara el Jenkins del SIC és capaç de resoldre dependències del repositori Maven2 de Red Hat a través del Nexus</description>
+    </item>
+    
+    <item>
+      <title>Repositori Maven d&#39;Oracle a Nexus de SIC</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/maven-oracle/</link>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/maven-oracle/</guid>
+      <description>Des d&#39;ara el Jenkins del SIC és capaç de resoldre dependències del repositori Maven d&#39;Oracle a través del Nexus</description>
+    </item>
+    
+    <item>
+      <title>Slave Jenkins a CPD2 disponible</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/slave-cpd2/</link>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/slave-cpd2/</guid>
+      <description>Ja es troba disponible el slave de Jenkins a CPD2 IBM per a desplegaments en aquest CPD. Amb aquest slave es completa el desplegament de slaves Jenkins a tots els cpds Cloud i Critics de la Generalitat de Catalunya.</description>
+    </item>
+    
+  </channel>
+</rss>

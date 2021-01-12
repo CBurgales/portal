@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Arquitectura CTTI. Generalitat de Catalunya </title>
+    <link>https://canigo.ctti.gencat.cat/canigo-documentacio-versions-3x-errors-coneguts/</link>
+    <language>ca-es</language>
+    
+    
+    <updated>Mon, 16 Dec 2019 00:00:00 UTC</updated>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+         
+    <item>
+      <title>
+        
+        SIC. Recordatori de baixa del SVN
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</guid>
+      <description>Us recordem que a partir del 15/10/2020 el SVN del SIC es donarà de baixa definitivament</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització plugin Eclipse 1.7.10
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</guid>
+      <description>S&#39;ha publicat una nova versió del plugin de l&#39;Eclipse de Canigó per a generar projectes amb Canigó 3.4.5</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls integració
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls integració de Canigó</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Gitlab
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Custodia de Codi (Gitlab)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Jenkins
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei d&#39;Integració Continua (Jenkins)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Nexus
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Repositori d&#39;Artefactes (Nexus)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.6 i actualització plugin Eclipse 1.7.8
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</guid>
+      <description>S&#39;ha publicat una nova versió de l’arquetipus i del plugin de l&#39;eclipse de Canigó per a modificar projectes afegint el mòdul de Mongodb 2.3.0</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.7 i plugin Eclipse 1.7.9
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</guid>
+      <description>S&#39;ha publicat una nova versió de l’archetype i del plugin de l’Eclipse de Canigó per a generar projectes amb Canigó 3.4.4</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització mòdul Seguretat
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</guid>
+      <description>S&#39;ha publicat una nova versió del mòdul Seguretat de Canigó per oferir la funcionalitat de compressió de token JWT</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls core
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls core de Canigó</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+  </channel>
+</rss>

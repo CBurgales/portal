@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Arquitectura CTTI. Generalitat de Catalunya </title>
+    <link>https://canigo.ctti.gencat.cat/sections/destacats/</link>
+    <language>ca-es</language>
+    
+    
+    <updated>Wed, 22 Jul 2020 00:00:00 UTC</updated>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+         
+    <item>
+      <title>
+        
+        SIC. Recordatori de baixa del SVN
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</guid>
+      <description>Us recordem que a partir del 15/10/2020 el SVN del SIC es donarà de baixa definitivament</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització plugin Eclipse 1.7.10
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</guid>
+      <description>S&#39;ha publicat una nova versió del plugin de l&#39;Eclipse de Canigó per a generar projectes amb Canigó 3.4.5</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls integració
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls integració de Canigó</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Gitlab
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Custodia de Codi (Gitlab)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Jenkins
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei d&#39;Integració Continua (Jenkins)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Nexus
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Repositori d&#39;Artefactes (Nexus)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.6 i actualització plugin Eclipse 1.7.8
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</guid>
+      <description>S&#39;ha publicat una nova versió de l’arquetipus i del plugin de l&#39;eclipse de Canigó per a modificar projectes afegint el mòdul de Mongodb 2.3.0</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.7 i plugin Eclipse 1.7.9
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</guid>
+      <description>S&#39;ha publicat una nova versió de l’archetype i del plugin de l’Eclipse de Canigó per a generar projectes amb Canigó 3.4.4</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització mòdul Seguretat
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</guid>
+      <description>S&#39;ha publicat una nova versió del mòdul Seguretat de Canigó per oferir la funcionalitat de compressió de token JWT</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls core
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls core de Canigó</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <item>
+      <title>Publicació nova versió del full de ruta del programari</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2020-07-22-Nova-versio-full-de-ruta-programari/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2020-07-22-Nova-versio-full-de-ruta-programari/</guid>
+      <description>Al mes de Juliol es va publicar una nova versió del full de ruta del programari estandarditzat pel CTTI.</description>
+    </item>
+    
+    <item>
+      <title>Publicació nova versió del full de ruta del programari</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2020-03-30-Nova-versio-full-de-ruta-programari/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2020-03-30-Nova-versio-full-de-ruta-programari/</guid>
+      <description>Al mes de març ha estat publicada una nova versió del full de ruta del programari estandarditzat pel CTTI.</description>
+    </item>
+    
+    <item>
+      <title>Canigó. Punts a tenir en compte a l&#39;hora de triar un servidor incrustat</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-11-29-Punts_tenir_compte_triar_servidor_incrustat/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-11-29-Punts_tenir_compte_triar_servidor_incrustat/</guid>
+      <description>Llistat dels diferents punts a tenir en compte a l&#39;hora de triar un servidor incrustat per una aplicació Canigó.</description>
+    </item>
+    
+    <item>
+      <title>SIC. Actualització de versió Gitlab</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-10-04-sic-act_versio_scm_11.11.8/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-10-04-sic-act_versio_scm_11.11.8/</guid>
+      <description>Durant el mes d&#39;Octubre s&#39;ha dut a terme l&#39;actualització del Servei de Custodia de Codi (Gitlab).</description>
+    </item>
+    
+    <item>
+      <title>SIC. Actualització de versió Nexus</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-10-04-sic-act_versio_nexus_3.16.2/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-10-04-sic-act_versio_nexus_3.16.2/</guid>
+      <description>Durant el mes d&#39;Octubre s&#39;han dut a terme actualització del repositori d&#39;artefactes (Nexus).</description>
+    </item>
+    
+    <item>
+      <title>Programació Reactiva a Canigó</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-09-16-Spring-Reactiu-Canigo/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-09-16-Spring-Reactiu-Canigo/</guid>
+      <description>Dins de l&#39;abast de la publicació de Canigó 3.4 s&#39;incorpora la funcionalitat de programació reactiva. En el enllaç trobareu informació sobre com configurar una aplicació Canigó 3.4 per utilitzar MongoDB reactiu</description>
+    </item>
+    
+    <item>
+      <title>Programació Web Flux a Canigó</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-09-16-Spring-Web-Flux-Canigo/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-09-16-Spring-Web-Flux-Canigo/</guid>
+      <description>El mes de Març del 2019 es va publicar la versió 3.4 del Framework Canigó. Aquesta versió utilitza Spring 5 que incorpora la possibilitat d&#39;utilitzar les funcionalitats de Web Flux. En el enllaç trobareu informació sobre què és el Web Flux i com utilitzar-ho a aplicacions Canigó</description>
+    </item>
+    
+    <item>
+      <title>Verificació de normativa de versions de programari al Servei d’Integració Continua (SIC)</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-09-16-Verificacio-normativa-versions/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-09-16-Verificacio-normativa-versions/</guid>
+      <description>A partir del dia 26/09/2019 el Servei d&#39;Integració Contínua assegura que el versionat dels lliurables de les solucions compleixi la normativa de versions de programari definida per la Unitat d&#39;Arquitectura. La verificació que es realitza es basa en que el fitxer sic/sic.yml, repositat dins el projecte, ha de tenir informada la versió i aquesta ha d&#39;estar composada per 3 dígits tal com indica la normativa: versió major, versió menor i versió de pegat. Si no es considera vàlida, el sistema no permet actualitzar el fitxer al servei de custodia de codi ni permet desplegar la solució mitjançant el servei d&#39;integració continua.</description>
+    </item>
+    
+    <item>
+      <title>Publicació nova versió del full de ruta del programari</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-07-10-Nova-versio-full-de-ruta-programari/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-07-10-Nova-versio-full-de-ruta-programari/</guid>
+      <description>El mes de Juliol ha estat publicada una nova versió del full de ruta del programari estandarditzat pel CTTI. En aquesta versió s&#39;han actualitzat les versions de: Nginx, Oracle JDK, OpenJDK, Node.js, MySql Database, Adobe AEM, Alfresco, Liferay, SAP Nw AS ABAP - Java i OpenText</description>
+    </item>
+    
+  </channel>
+</rss>

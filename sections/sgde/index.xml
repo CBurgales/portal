@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Arquitectura CTTI. Generalitat de Catalunya </title>
+    <link>https://canigo.ctti.gencat.cat/sections/sgde/</link>
+    <language>ca-es</language>
+    
+    
+    <updated>Sat, 24 Jan 2015 17:11:42 &#43;0100</updated>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+         
+    <item>
+      <title>
+        
+        SIC. Recordatori de baixa del SVN
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-30-Recordatori-baixa-svn/</guid>
+      <description>Us recordem que a partir del 15/10/2020 el SVN del SIC es donarà de baixa definitivament</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització plugin Eclipse 1.7.10
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-15-Actualitzacio_plugin_eclipse_1_7_10/</guid>
+      <description>S&#39;ha publicat una nova versió del plugin de l&#39;Eclipse de Canigó per a generar projectes amb Canigó 3.4.5</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls integració
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-09-09-Revisio_regles_SonarQube_moduls_integracio/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls integració de Canigó</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Gitlab
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_scm/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Custodia de Codi (Gitlab)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Jenkins
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_ci/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei d&#39;Integració Continua (Jenkins)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        SIC. Actualització de versió Nexus
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-07-28-sic-act_versio_nexus/</guid>
+      <description>Durant el mes de Juliol s&#39;ha dut a terme l&#39;actualització del Servei de Repositori d&#39;Artefactes (Nexus)</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.6 i actualització plugin Eclipse 1.7.8
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-04-28-Actualitzacio_plugin_eclipse_1_7_8/</guid>
+      <description>S&#39;ha publicat una nova versió de l’arquetipus i del plugin de l&#39;eclipse de Canigó per a modificar projectes afegint el mòdul de Mongodb 2.3.0</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització archetype 1.6.7 i plugin Eclipse 1.7.9
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_archetype_1_6_7_plugin_eclipse_1_7_9/</guid>
+      <description>S&#39;ha publicat una nova versió de l’archetype i del plugin de l’Eclipse de Canigó per a generar projectes amb Canigó 3.4.4</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Actualització mòdul Seguretat
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-11-Actualitzacio_modul_Seguretat_compressio_token/</guid>
+      <description>S&#39;ha publicat una nova versió del mòdul Seguretat de Canigó per oferir la funcionalitat de compressió de token JWT</description>
+    </item>
+         
+    <item>
+      <title>
+        
+        Canigó. Revisió regles SonarQube mòduls core
+      </title>
+      <link>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/noticies/2020-06-09-Revisio_regles_SonarQube_moduls_core/</guid>
+      <description>S&#39;han revisat i resolt els problemes detectats per SonarQube als mòduls core de Canigó</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <item>
+      <title>STD - Nova versió Manual d&#39;Usuari STD versió 2</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-05-31-std-manual-usuari-std-v2/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-05-31-std-manual-usuari-std-v2/</guid>
+      <description>S&#39;ha actualitzat el Manual d&#39;Usuari de STD alineat amb els serveis que s&#39;ofereixen després de la rearquitectura. Per a més informació podeu seguir l&#39;enllaç al títol d&#39;aquest mateix destacat</description>
+    </item>
+    
+    <item>
+      <title>STD - En servei nou entorn de PRO</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-05-30-std-en-servei-nou-entorn-pro/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-05-30-std-en-servei-nou-entorn-pro/</guid>
+      <description>En data 23/05/2019 s&#39;ha posat en servei el nou entorn de Producció del servei STD. Per a més informació podeu seguir l&#39;enllaç al títol d&#39;aquest mateix destacat</description>
+    </item>
+    
+    <item>
+      <title>STD - En servei nou entorn de PRE</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-04-16-std-en-servei-nou-entorn-pre/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-04-16-std-en-servei-nou-entorn-pre/</guid>
+      <description>En data 15/04/2019 s&#39;ha posat en servei el nou entorn de Preproducció del servei STD. Per a més informació podeu seguir l&#39;enllaç al títol d&#39;aquest mateix destacat</description>
+    </item>
+    
+    <item>
+      <title>Dates actualització tecnològica STD</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2019-03-26-std-actualitzacio-tecnologica/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2019-03-26-std-actualitzacio-tecnologica/</guid>
+      <description>La data prevista per l&#39;actualització tecnològica del servei STD a Producció és el 23/4. Durant els pròxims dies es comunicarà la data de posada en servei del nou entorn de Preproducció. Per a més informació podeu seguir l&#39;enllaç al títol d&#39;aquest mateix destacat</description>
+    </item>
+    
+    <item>
+      <title>SGDE. Actualització tecnològica del STD</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2018-09-27-SGDE-Actualitzacio-tecnologica-std/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2018-09-27-SGDE-Actualitzacio-tecnologica-std/</guid>
+      <description>Durant el primer trimestre del 2019 està previst realitzar una actualització tecnològica del servei STD. Els diferents integradors rebran les comunicacions pertinents per ser informats de les dates més rellevants</description>
+    </item>
+    
+    <item>
+      <title>SGDE. Nou servei Formularis HTML5</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2018-06-25-nou-servei-formularis-html5/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2018-06-25-nou-servei-formularis-html5/</guid>
+      <description>Gràcies a la incorporació d&#39;AEM (Adobe Experience Manager) com a producte base del servei, es posa a disposició de les aplicacions la possibilitat d&#39;utilitzar formularis HTML5 adaptatius (Adaptive Forms)</description>
+    </item>
+    
+    <item>
+      <title>SGDE. Recordatori actualització entorn eFormularis PRO</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2018-05-18-sgde-recordatori-actualitzacio-eforms-pro/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2018-05-18-sgde-recordatori-actualitzacio-eforms-pro/</guid>
+      <description>El dia 13 de Juny es farà efectiu el canvi d&#39;entorn de PRO d&#39;eFormularis derivat de l&#39;actualització tecnològica del servei. Es recomana a totes les aplicacions integradores finalitzar les proves dels seus formularis a PRE durant aquest mes de Maig</description>
+    </item>
+    
+    <item>
+      <title>SGDE. Comunicació dates disponibilitat nou entorn eFormularis</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2018-04-06-actualitzacio-eforms-aem/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2018-04-06-actualitzacio-eforms-aem/</guid>
+      <description>El 23/4 es farà efectiu el canvi d&#39;entorn de PRE d&#39;eFormularis. El STD (Sistema de Transformació de STD) també es veu afectat amb un canvi d&#39;IPs. Per l&#39;entorn de PRO el canvi d&#39;entorn està previst pel 11/6</description>
+    </item>
+    
+    <item>
+      <title>SGDE. Actualització de plataforma al servei d&#39;eFormularis</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/2018-03-09-actualitzacio-eforms-aem/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/2018-03-09-actualitzacio-eforms-aem/</guid>
+      <description>S&#39;està treballant en l&#39;actualització tecnològica de la plataforma, principalment en la del producte base del servei passant d&#39;Adobe LiveCycle a Adobe Experience Manager (AEM)</description>
+    </item>
+    
+    <item>
+      <title>Recordatori: Eliminació WS eFormularis v8 a l&#39;entorn de PRE</title>
+      <link>https://canigo.ctti.gencat.cat/destacats/recordatori-eliminacio-v8-pre/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://canigo.ctti.gencat.cat/destacats/recordatori-eliminacio-v8-pre/</guid>
+      <description>Dijous 3/11/2016 es donarà de baixa la versió més antiga del WS d&#39;eFormularis a l&#39;entorn de PRE</description>
+    </item>
+    
+  </channel>
+</rss>
